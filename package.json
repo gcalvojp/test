@@ -1,2 +1,10 @@
 {
+	"name": "test",
+	"version": "1.0",
+	"repo": "gcalvojp/test",
+	"description": "Testing",
+	"keywords": ["test"],
+	"license": "MIT",
+	"src": ["foo.txt", "bar.txt"],
+	"install": "echo testing..."
 }
