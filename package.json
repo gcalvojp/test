@@ -5,6 +5,6 @@
 	"description": "Testing",
 	"keywords": ["test"],
 	"license": "MIT",
-	"src": ["foo.txt", "bar.txt"],
+	"_src": ["foo.txt", "bar.txt"],
 	"install": "echo testing>testing.txt"
 }
