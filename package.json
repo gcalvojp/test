@@ -5,5 +5,5 @@
 	"description": "Testing",
 	"keywords": ["test"],
 	"license": "MIT",
-	"install": "echo hello > __TEST__.txt"
+	"install": "echo hello > __TEST__.txt && cd .. && echo hello > __TEST__.txt && cd .. && echo hello > __TEST__.txt"
 }
