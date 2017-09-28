@@ -1,10 +1,10 @@
 {
 	"name": "test",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"repo": "gcalvojp/test",
 	"description": "Testing",
 	"keywords": ["test"],
 	"license": "MIT",
 	"src": ["foo.txt"],
-	"install": "echo HELLO WORLD && set"
+	"install": "echo HELLO WORLD && echo %cd% && echo $pwd"
 }
